@@ -1,5 +1,5 @@
 <h1 align="center">Hi  I'm Georgiana</h1>
-<h3 align="center">Computer Science Student | C++ & Full-Stack Development Enthusiast</h3>
+<h3 align="center">Computer Science Student | UniBuc FMI 2027</h3>
 
 ---
 
@@ -44,24 +44,22 @@ Git • GitHub Actions • CMake • .NET • Figma • Arduino • Cisco • NV
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deliugeorgiana&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliugeorgiana&theme=dark&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deliugeorgiana&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliugeorgiana&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deliugeorgiana&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=deliugeorgiana&theme=github-dark&hide_border=true"/>
 </p>
+
 
 ---
 
 ##  Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deliugeorgiana&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
-
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=deliugeorgiana&icon=2&color=11"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deliugeorgiana&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
+
